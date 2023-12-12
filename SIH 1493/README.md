@@ -1,6 +1,6 @@
 
 # SIH-1493 (Ideas that showcase the rich cultural heritage and traditions of India)
-
+NOTE: You have to change your directories based on your system path.
 1493:
 =
 Organization Name:AICTE, MIC-Student Innovation
