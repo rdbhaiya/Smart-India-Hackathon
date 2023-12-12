@@ -1,6 +1,6 @@
 
 # SIH-1385 (Developing a software that can translate resource material and other texts from English to other Indian regional languages.)
-
+NOTE: You have to change your directories based on your system path.
 1385:
 =
 Organization Name: Ministry of Commerce and Industries
