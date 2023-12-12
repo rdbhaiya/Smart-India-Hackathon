@@ -8,8 +8,8 @@ def display_heritage_sites_by_state(state_name):
         connection = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="rupamdas",
-            database="indian_tourism"
+            password="your_password",
+            database="your_database"
         )
         if connection.is_connected():
             cursor = connection.cursor()
