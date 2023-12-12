@@ -8,8 +8,8 @@ def get_item_info_text(item_info):
         connection = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="rupamdas",
-            database="indian_tourism"
+            password="your_password",
+            database="your_database"
         )
 
         if connection.is_connected():
