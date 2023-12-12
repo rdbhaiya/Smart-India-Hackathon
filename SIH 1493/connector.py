@@ -3,9 +3,9 @@ def get_cultural_details(Statename):
     try:
         server = mysql.connector.connect(
             host = "localhost",
-            database="indian_tourism",
+            database="database_name",
             user = "root",
-            password = "rupamdas"
+            password = "your_password"
         )
     except:
         print("There was an error connecting to the server.\n")
